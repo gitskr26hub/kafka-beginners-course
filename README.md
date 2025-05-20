@@ -1,4 +1,4 @@
-# Kafka for Beginners
+# Kafka for Beginners##
 
 This is a companion repository for the [Kafka for Beginners course](https://links.datacumulus.com/apache-kafka-coupon) by Conduktor
 
